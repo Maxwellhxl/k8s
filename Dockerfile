@@ -1,1 +1,2 @@
-FROM gcr.io/google_containers/kube-apiserver-amd64:v1.10.3
+FROM k8s.gcr.io/kubernetes-dashboard-amd64:v1.10.1
+MAINTAINER minminmsn <admin@minminmsn.com>
